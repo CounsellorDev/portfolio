@@ -1,0 +1,26 @@
+{
+  "name": "counsellordev",
+  "version": "1.0.0",
+  "description": "Paul Stephen Edache ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CounsellorDev/portfolio.git"
+  },
+  "keywords": [
+    "\"Paul",
+    "Stephen",
+    "Edache\"",
+    "'Portfolio",
+    "website'"
+  ],
+  "author": "Paul Stephen Edache <paulstephenedache@gmail.com> (https://CounsellorDev.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CounsellorDev/portfolio/issues"
+  },
+  "homepage": "https://github.com/CounsellorDev/portfolio#readme"
+}
